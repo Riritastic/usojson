@@ -15,6 +15,9 @@ public class Tienda {
     public void addProducto( Dispositivo producto){
         this.catalogo.add(producto);
     }
+    public void addCliente(Cliente cliente){
+        this.listaCuentasCliente.add(cliente);
+    }
 
 
 

@@ -74,5 +74,7 @@ public class Dispositivo {
     public void reduceStock(int numero){
         this.stock -=numero;
     }
-
+    //idealmente crearia un "toString()" que lea los elementos aqui, y usar ese metodo en
+    //las herencias subsiguientes, asi pudiendo hacer texto toda la informacion
+    //con esta clase siendo la base, el manejo de productos es facil
 }
