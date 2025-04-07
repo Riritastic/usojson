@@ -78,3 +78,4 @@ public class Dispositivo {
     //las herencias subsiguientes, asi pudiendo hacer texto toda la informacion
     //con esta clase siendo la base, el manejo de productos es facil
 }
+
